@@ -1,0 +1,5 @@
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\Extensions\ExtendedOperations.dll
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\Extensions\ExtendedOperations.pdb
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\ExtendedOperations\obj\Debug\ExtendedOperations.csprojResolveAssemblyReference.cache
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\ExtendedOperations\obj\Debug\ExtendedOperations.pdb

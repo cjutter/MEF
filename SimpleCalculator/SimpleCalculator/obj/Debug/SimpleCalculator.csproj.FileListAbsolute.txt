@@ -1,0 +1,6 @@
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\cutter\Documents\MyCode\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
